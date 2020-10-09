@@ -45,5 +45,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Description
 
-Implementation of jeopardize game logic using jService data
+Implementation of Jeopardy game logic using jService data
 
