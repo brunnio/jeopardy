@@ -47,3 +47,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Implementation of Jeopardy game logic using jService data
 
+# instructions
+
+ In the project directory run npm start
+
